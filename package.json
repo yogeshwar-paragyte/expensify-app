@@ -1,7 +1,7 @@
 {
   "name": "expensify",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "src/app.js",
   "author": "Yogeshwar Singh",
   "license": "MIT",
   "scripts": {
